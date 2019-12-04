@@ -1,0 +1,26 @@
+<annotation>
+	<folder>22</folder>
+	<filename>910.jpg</filename>
+	<path>C:\Users\14590\Desktop\1\22\910.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>605</width>
+		<height>440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>22</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>604</xmax>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>557.jpg</filename>
+	<path>C:\Users\14590\Desktop\picture\train\557.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>598</width>
+		<height>485</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>13</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>65</ymin>
+			<xmax>535</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3</folder>
+	<filename>131.jpg</filename>
+	<path>C:\Users\14590\Desktop\1\3\131.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>412</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>69</ymin>
+			<xmax>489</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>

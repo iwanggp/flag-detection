@@ -1,0 +1,26 @@
+<annotation>
+	<folder>5</folder>
+	<filename>204.jpg</filename>
+	<path>C:\Users\14590\Desktop\1\5\204.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1014</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>4</ymin>
+			<xmax>1014</xmax>
+			<ymax>797</ymax>
+		</bndbox>
+	</object>
+</annotation>

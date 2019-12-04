@@ -1,0 +1,26 @@
+<annotation>
+	<folder>12</folder>
+	<filename>496.jpg</filename>
+	<path>C:\Users\14590\Desktop\1\12\496.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>940</width>
+		<height>601</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>12</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>626</xmin>
+			<ymin>109</ymin>
+			<xmax>889</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

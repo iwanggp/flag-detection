@@ -1,0 +1,26 @@
+<annotation>
+	<folder>30</folder>
+	<filename>2019.jpg</filename>
+	<path>C:\Users\14590\Desktop\1\30\2019.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>63</ymin>
+			<xmax>406</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>

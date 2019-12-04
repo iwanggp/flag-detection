@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpg</folder>
+	<filename>770.jpg</filename>
+	<path>C:\Users\14590\Desktop\supplement\jpg\770.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>420</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>18</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>232</xmin>
+			<ymin>53</ymin>
+			<xmax>478</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>

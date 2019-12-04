@@ -1,0 +1,26 @@
+<annotation>
+	<folder>18</folder>
+	<filename>764.jpg</filename>
+	<path>C:\Users\14590\Desktop\1\18\764.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>767</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>18</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>75</ymin>
+			<xmax>860</xmax>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+</annotation>

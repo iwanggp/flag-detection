@@ -1,0 +1,26 @@
+<annotation>
+	<folder>30</folder>
+	<filename>2023.jpg</filename>
+	<path>C:\Users\14590\Desktop\1\30\2023.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>449</width>
+		<height>319</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>62</ymin>
+			<xmax>368</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>jpg</folder>
+	<filename>1052.jpg</filename>
+	<path>C:\Users\14590\Desktop\supplement\jpg\1052.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>542</width>
+		<height>362</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>26</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>61</ymin>
+			<xmax>469</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

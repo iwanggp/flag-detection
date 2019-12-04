@@ -1,0 +1,26 @@
+<annotation>
+	<folder>21</folder>
+	<filename>874.jpg</filename>
+	<path>C:\Users\14590\Desktop\1\21\874.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>767</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>21</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>116</xmin>
+			<ymin>15</ymin>
+			<xmax>895</xmax>
+			<ymax>742</ymax>
+		</bndbox>
+	</object>
+</annotation>

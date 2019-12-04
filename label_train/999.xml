@@ -1,0 +1,26 @@
+<annotation>
+	<folder>24</folder>
+	<filename>999.jpg</filename>
+	<path>C:\Users\14590\Desktop\1\24\999.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>484</width>
+		<height>324</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>24</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>196</ymin>
+			<xmax>401</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+</annotation>

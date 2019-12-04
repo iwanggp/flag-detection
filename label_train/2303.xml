@@ -1,0 +1,26 @@
+<annotation>
+	<folder>37</folder>
+	<filename>2303.jpg</filename>
+	<path>C:\Users\14590\Desktop\1\37\2303.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>508</width>
+		<height>698</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>37</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>49</ymin>
+			<xmax>500</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>

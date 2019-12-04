@@ -1,0 +1,26 @@
+<annotation>
+	<folder>14</folder>
+	<filename>587.jpg</filename>
+	<path>C:\Users\14590\Desktop\1\14\587.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>560</width>
+		<height>456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>14</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>68</ymin>
+			<xmax>447</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

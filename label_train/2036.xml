@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>2036.jpg</filename>
+	<path>C:\Users\14590\Desktop\picture\train\2036.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>122</ymin>
+			<xmax>538</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

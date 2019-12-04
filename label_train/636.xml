@@ -1,0 +1,26 @@
+<annotation>
+	<folder>15</folder>
+	<filename>636.jpg</filename>
+	<path>C:\Users\14590\Desktop\1\15\636.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>15</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>1</ymin>
+			<xmax>341</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

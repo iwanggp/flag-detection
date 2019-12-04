@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10</folder>
+	<filename>428.jpg</filename>
+	<path>C:\Users\14590\Desktop\1\10\428.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>680</width>
+		<height>541</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>10</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>200</ymin>
+			<xmax>343</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>

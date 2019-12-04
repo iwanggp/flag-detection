@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>2022.jpg</filename>
+	<path>C:\Users\14590\Desktop\picture\train\2022.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>707</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>213</xmin>
+			<ymin>140</ymin>
+			<xmax>883</xmax>
+			<ymax>625</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>19</folder>
+	<filename>808.jpg</filename>
+	<path>C:\Users\14590\Desktop\1\19\808.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>689</width>
+		<height>386</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>19</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>36</ymin>
+			<xmax>399</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+</annotation>

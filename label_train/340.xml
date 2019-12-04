@@ -1,0 +1,26 @@
+<annotation>
+	<folder>8</folder>
+	<filename>340.jpg</filename>
+	<path>C:\Users\14590\Desktop\1\8\340.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>8</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>155</ymin>
+			<xmax>541</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

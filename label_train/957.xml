@@ -1,0 +1,26 @@
+<annotation>
+	<folder>23</folder>
+	<filename>957.jpg</filename>
+	<path>C:\Users\14590\Desktop\1\23\957.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>690</width>
+		<height>442</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>23</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>374</xmin>
+			<ymin>157</ymin>
+			<xmax>428</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

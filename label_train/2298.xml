@@ -1,0 +1,26 @@
+<annotation>
+	<folder>37</folder>
+	<filename>2298.jpg</filename>
+	<path>C:\Users\14590\Desktop\1\37\2298.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>898</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>37</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>37</ymin>
+			<xmax>642</xmax>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+</annotation>
